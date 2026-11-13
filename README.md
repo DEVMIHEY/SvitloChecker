@@ -31,7 +31,7 @@
 ---
 
 ### 📥 Як завантажити та встановити
-1. Перейдіть у розділ **[Releases (Остання версія)](https://github.com/DEVMIHEY/SvitloChecker/releases/download/1.6/)**.
+1. Перейдіть у розділ **[Releases (Остання версія)](https://github.com/DEVMIHEY/SvitloChecker/releases/download/1.6/Svitlocheker.exe)**.
 2. Завантажте файл `.exe` зі списку **Assets**.
 3. Запустіть програму (встановлення не потрібне, працює одразу).
 
